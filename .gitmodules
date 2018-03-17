@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = ssh+git://git@github.com/basith374/chat-client.git
+[submodule "server"]
+	path = server
+	url = ssh+git://git@github.com/basith374/chat-server.git
